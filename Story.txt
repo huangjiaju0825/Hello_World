@@ -1,2 +1,0 @@
-Add message in story.txt
-New message test
